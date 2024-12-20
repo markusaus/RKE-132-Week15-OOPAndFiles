@@ -1,0 +1,14 @@
+C:\Users\ausma\source\repos\Week15OOPAndFiles\Week15OOPAndFiles\obj\Debug\net8.0\Week15OOPAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ausma\source\repos\Week15OOPAndFiles\Week15OOPAndFiles\obj\Debug\net8.0\Week15OOPAndFiles.AssemblyInfoInputs.cache
+C:\Users\ausma\source\repos\Week15OOPAndFiles\Week15OOPAndFiles\obj\Debug\net8.0\Week15OOPAndFiles.AssemblyInfo.cs
+C:\Users\ausma\source\repos\Week15OOPAndFiles\Week15OOPAndFiles\obj\Debug\net8.0\Week15OOPAndFiles.csproj.CoreCompileInputs.cache
+C:\Users\ausma\source\repos\Week15OOPAndFiles\Week15OOPAndFiles\bin\Debug\net8.0\Week15OOPAndFiles.exe
+C:\Users\ausma\source\repos\Week15OOPAndFiles\Week15OOPAndFiles\bin\Debug\net8.0\Week15OOPAndFiles.deps.json
+C:\Users\ausma\source\repos\Week15OOPAndFiles\Week15OOPAndFiles\bin\Debug\net8.0\Week15OOPAndFiles.runtimeconfig.json
+C:\Users\ausma\source\repos\Week15OOPAndFiles\Week15OOPAndFiles\bin\Debug\net8.0\Week15OOPAndFiles.dll
+C:\Users\ausma\source\repos\Week15OOPAndFiles\Week15OOPAndFiles\bin\Debug\net8.0\Week15OOPAndFiles.pdb
+C:\Users\ausma\source\repos\Week15OOPAndFiles\Week15OOPAndFiles\obj\Debug\net8.0\Week15OOPAndFiles.dll
+C:\Users\ausma\source\repos\Week15OOPAndFiles\Week15OOPAndFiles\obj\Debug\net8.0\refint\Week15OOPAndFiles.dll
+C:\Users\ausma\source\repos\Week15OOPAndFiles\Week15OOPAndFiles\obj\Debug\net8.0\Week15OOPAndFiles.pdb
+C:\Users\ausma\source\repos\Week15OOPAndFiles\Week15OOPAndFiles\obj\Debug\net8.0\Week15OOPAndFiles.genruntimeconfig.cache
+C:\Users\ausma\source\repos\Week15OOPAndFiles\Week15OOPAndFiles\obj\Debug\net8.0\ref\Week15OOPAndFiles.dll
